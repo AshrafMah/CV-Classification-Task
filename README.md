@@ -22,3 +22,7 @@ Fashion-MNIST is a dataset of Zalando's article images consisting of a training 
 3. **Experiment 3**: Evaluate different optimization algorithms (SGD, Adam, and RMSprop).
 4. **Experiment 4**: Assess the impact of dropout.
 5. **Experiment 5**: Assess the impact of data augmentation.
+
+## Contributors
+- [Ashraf Mahmoud](https://github.com/AshrafMah)
+- [Hamdy Zaied](https://github.com/hamdyzaied426)
